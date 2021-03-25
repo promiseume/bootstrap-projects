@@ -1,0 +1,183 @@
+body {
+  font-family: "Merriweather", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-weight: 400;
+  font-size: 1rem;
+}
+#mainNav .navbar-brand {
+  color: whitesmoke;
+}
+#mainNav .nav-link {
+  color: whitesmoke;
+}
+#mainNav .navbar-brand:hover {
+  color: #f4623a;
+}
+#mainNav .nav-link:hover {
+  color: #f4623a;
+}
+#firstDiv .inner {
+  background-color: rgba(92, 77, 66, 0.8);
+}
+#firstDiv {
+  background: url("https://startbootstrap.github.io/startbootstrap-creative/assets/img/bg-masthead.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: scroll;
+}
+
+header {
+  padding-top: 150px;
+  padding-bottom: 200px;
+  text-align: center;
+  color: white;
+}
+header h1 {
+  font-size: 60px;
+  font-weight: bold;
+  padding-bottom: 20px;
+}
+header hr {
+  border: 2px solid #f4623a;
+  width: 70px;
+  margin: auto;
+}
+header h5 {
+  padding-top: 30px;
+  font-weight: 50;
+  padding-bottom: 30px;
+}
+header .btn.btn-primary {
+  background-color: #f4623a;
+  color: #ffffff;
+  border: none;
+  border-radius: 10rem;
+  font-weight: 700;
+  cursor: pointer;
+  padding: 1.25rem 2.25rem;
+}
+header .btn.btn-primary:hover {
+  background-color: #ee3a08;
+}
+#firstSection {
+  text-align: center;
+  background-color: #f4623a;
+  padding-top: 100px;
+  color: #ffffff;
+  padding-bottom: 100px;
+}
+#firstSection hr {
+  border: 1px solid #ffffff;
+  width: 70px;
+  margin: auto;
+}
+#firstSection h2 {
+  padding-bottom: 20px;
+}
+#firstSection p {
+  padding-top: 20px;
+}
+#firstSection .btn.btn-primary {
+  text-align: center;
+  background-color: #ffffff;
+  color: black;
+  font-weight: 700;
+  padding: 1.25rem 2.25rem;
+  border-radius: 10rem;
+  border: none;
+}
+#firstSection .btn.btn-primary:hover {
+  background-color: #dfd9d9;
+}
+#secondSection {
+  text-align: center;
+  padding-top: 100px;
+}
+#secondSection hr {
+  border: 1px solid #f4623a;
+  width: 70px;
+  margin: auto;
+}
+#secondSection .row {
+  padding-top: 50px;
+  padding-left: 80px;
+  padding-right: 80px;
+  padding-bottom: 100px;
+  text-align: center;
+}
+#secondSection .fa {
+  font-size: 4rem;
+  color: #f4623a;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+.col-lg-4 {
+  box-sizing: border-box;
+  padding-left: 0;
+  padding-right: 0;
+}
+.imgfluid {
+  max-width: 100%;
+  height: auto;
+}
+#lastSection {
+  background-color: #343a40;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 120px;
+}
+#lastSection h2 {
+  color: #ffffff;
+  padding-bottom: 15px;
+}
+#lastSection .btn.btn-primary {
+  text-align: center;
+  background-color: #ffffff;
+  color: black;
+  font-weight: 400;
+  padding: 1.25rem 2.25rem;
+  border-radius: 10rem;
+  border: none;
+}
+#lastSection .btn.btn-primary:hover {
+  background-color: #dfd9d9;
+}
+footer {
+  text-align: center;
+}
+footer hr {
+  border: 1px solid #f4623a;
+  width: 70px;
+  margin: auto;
+}
+footer h2 {
+  padding-bottom: 10px;
+  padding-top: 100px;
+}
+footer p {
+  color: #343a40;
+  font-weight: 400;
+  padding-top: 20px;
+}
+#lastrow {
+  padding-bottom: 150px;
+  padding-left: 150px;
+  padding-right: 200px;
+}
+footer .fa {
+  font-size: 3rem;
+  color: #343a40;
+  padding-top: 30px;
+}
+.copyright {
+  background-color: rgb(250, 249, 249);
+}
+.lastP {
+  color: #f4623a;
+}
+.lastP:hover {
+  color: #ee3a08;
+  text-decoration: underline;
+}
